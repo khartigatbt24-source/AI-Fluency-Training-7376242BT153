@@ -49,3 +49,4 @@ TOOLS = [
 if __name__ == "__main__":
     print("get_course_fee('ai202') ->", get_course_fee("ai202"))
     print("calculator('(12000 + 18000) * 0.9') ->", calculator("(12000 + 18000) * 0.9"))
+    print("calculator('15000 - 12000') ->", calculator("15000 - 12000"))
